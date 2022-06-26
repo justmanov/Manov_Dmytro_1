@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RzyrJZlq7lhqkowWme8Unkw95c+lAW8XkfbRp6lSosNIWmGM7kkJhD4dyuwUdJQBlhfiKBbbPaWxPTr6O3CluA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Game\\source\\repos\\Lab1\\Lab1\\Lab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Game\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
